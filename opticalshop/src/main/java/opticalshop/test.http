@@ -1,0 +1,8 @@
+POST http://localhost:8080/customers
+Content-Type: application/json
+
+{
+  "name": "Rahul",
+  "phone": "9876543210",
+  "prescription": "-2.5"
+}
